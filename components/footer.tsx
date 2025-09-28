@@ -21,7 +21,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Phone className="w-4 h-4" />
-                  <span>0541 761 32 05</span>
+                  <span>0541 </span>
                 </a>
                 <a
                   href="https://www.linkedin.com/in/lara-çakmakcı"
