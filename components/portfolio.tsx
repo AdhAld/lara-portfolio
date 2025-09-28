@@ -20,7 +20,7 @@ export function Portfolio() {
             </div>
             <Button size="lg" className="gap-2" asChild>
               <a
-                href="https://drive.google.com/file/d/1BIk3rMUKCeciepGndM7Bwwx-2CPk_lQ6/view?usp=sharing"
+                href="https://www.behance.net/gallery/232745059/Portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
               >
