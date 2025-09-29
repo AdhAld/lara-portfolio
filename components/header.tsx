@@ -16,7 +16,7 @@ export function Header() {
             Creating functional and aesthetically pleasing designs with passion.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            {/* CV Download Button */}
+          
             <Button size="lg" className="gap-2" asChild>
               <a href="/CV.pdf" download>
                 <Download className="w-4 h-4" />
@@ -24,7 +24,6 @@ export function Header() {
               </a>
             </Button>
 
-            {/* Portfolio Link Button */}
             <Button variant="outline" size="lg" className="gap-2 bg-transparent" asChild>
               <a
                 href="https://www.behance.net/gallery/232745059/Portfolio"
