@@ -1,3 +1,4 @@
+import { Navbar } from "@/components/navbar"
 import { Header } from "@/components/header"
 import { About } from "@/components/about"
 import { Skills } from "@/components/skills"
@@ -10,6 +11,7 @@ import { Footer } from "@/components/footer"
 export default function Home() {
   return (
     <main className="min-h-screen">
+      <Navbar />
       <Header />
       <About />
       <Skills />

@@ -1,6 +1,6 @@
 export function Education() {
   return (
-    <section id="education" className="py-24 bg-background">
+    <section id="education" className="py-24 bg-background scroll-mt-20">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-light mb-12 text-center">Education</h2>

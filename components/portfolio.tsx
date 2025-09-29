@@ -3,7 +3,7 @@ import { ExternalLink } from "lucide-react"
 
 export function Portfolio() {
   return (
-    <section id="portfolio" className="py-24 bg-accent/30">
+    <section id="portfolio" className="py-24 bg-accent/30 scroll-mt-20">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-light mb-12">Portfolio</h2>
@@ -19,11 +19,7 @@ export function Portfolio() {
               </p>
             </div>
             <Button size="lg" className="gap-2" asChild>
-              <a
-                href="https://www.behance.net/gallery/232745059/Portfolio"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="https://www.behance.net/gallery/232745059/Portfolio" target="_blank" rel="noopener noreferrer">
                 <ExternalLink className="w-4 h-4" />
                 View Full Portfolio
               </a>
